@@ -5,7 +5,7 @@ Hello! I'm Anushka, a student exploring the world of technology and learning how
 ## About Me
 
 - **Name:** Anushka
-- **Currently studying:** B.Tech in Computer Science Engineering
+- **Currently studying:** B.E in Computer Science
 - **Interests:** Technology, learning, self-growth, health & wellness
 - **Goals:** To become an independent, skilled, and confident woman in tech.
 
@@ -31,11 +31,5 @@ GitHub is a powerful tool for learning and collaboration. I wanted to start earl
 - Track my growth
 - Get comfortable with version control
 - Build a strong base for my coding and tech journey
-
-## Connect With Me
-
-If you're also learning or just want to say hi, feel free to connect!
-
----
 
 Thank you for visiting my first repo!
